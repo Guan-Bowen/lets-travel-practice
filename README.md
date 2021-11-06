@@ -5,4 +5,4 @@ Containing pages of posts.
 
 "Contact" & "Call me" available.
 
-Supporting get messages and update posts as an admini
+Getting messages and updating posts as an admin.
